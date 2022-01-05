@@ -14,5 +14,5 @@ Example data:
 
 143, 10, 2009-01-01, 2011-04-27
 
-store it in partion decoments in your device and my app will get this data for you 
+store it in partition decoments in your device and my app will get this data for you 
 
